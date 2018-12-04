@@ -28,7 +28,7 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 
 ## System
 
-- [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) -
+- [rofi-files](https://github.com/cjbassi/rofi-files) -
   Quickly open files and folders.
 - [rofi-power](https://github.com/cjbassi/rofi-power) -
   Perform systemd based power management.
