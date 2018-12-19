@@ -11,7 +11,7 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 
 - [clipmenu](https://github.com/cdown/clipmenu)
 - [greenclip](https://github.com/erebe/greenclip)
-- [rofi-copyq](https://github.com/cjbassi/rofi-copyq)
+- [rofi-copyq](https://github.com/cjbassi/rofi-copyq) -
   Search [copyq](https://github.com/hluk/CopyQ) clipboard history.
 
 ## i3
