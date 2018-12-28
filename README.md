@@ -27,6 +27,8 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 
 - [clerk](https://github.com/carnager/clerk) -
   MPD client
+- [buku_run](https://github.com/carnager/buku_run) -
+  rofi frontend for buku bookmarks manager
 - [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) -
   Manage NetworkManager connections
 - [rofimoji](https://github.com/fdw/rofimoji) -
