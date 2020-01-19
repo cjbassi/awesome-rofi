@@ -29,6 +29,7 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
   MPD client
 - [buku_run](https://github.com/carnager/buku_run) -
   rofi frontend for buku bookmarks manager
+- [QuicKeepass](https://github.com/nongiach/QuicKeepass) - Efficiently autotype your password from keepass on i3 using rofi 
 - [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) -
   Manage NetworkManager connections
 - [rofimoji](https://github.com/fdw/rofimoji) -
