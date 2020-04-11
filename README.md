@@ -40,6 +40,7 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
   Frontend for [Pass](https://www.passwordstore.org/)
 - [rofi-power](https://github.com/cjbassi/rofi-power) -
   Perform systemd based power management
+- [rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Mode for systemd-based power management
 - [rofi-themes](https://github.com/DaveDavenport/rofi-themes)
 - [udiskie-dmenu](https://github.com/fogine/udiskie-dmenu) -
   [udiskie](https://github.com/coldfix/udiskie) frontend for managing removable media
