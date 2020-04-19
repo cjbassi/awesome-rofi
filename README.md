@@ -41,6 +41,7 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 - [rofi-power](https://github.com/cjbassi/rofi-power) -
   Perform systemd based power management
 - [rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Mode for systemd-based power management
+- [rofi-script-to-dmenu](https://github.com/jluttine/rofi-script-to-dmenu) - Run rofi scripts with dmenu (or in rofi dmenu mode)
 - [rofi-themes](https://github.com/DaveDavenport/rofi-themes)
 - [udiskie-dmenu](https://github.com/fogine/udiskie-dmenu) -
   [udiskie](https://github.com/coldfix/udiskie) frontend for managing removable media
