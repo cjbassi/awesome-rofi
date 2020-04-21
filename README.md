@@ -25,6 +25,7 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 
 ## Other
 
+- [Applets & menus](https://github.com/adi1090x/rofi) - Comprehensive collection of themeable applets, menus, launchers and sidemenus built with rofi
 - [clerk](https://github.com/carnager/clerk) -
   MPD client
 - [buku_run](https://github.com/carnager/buku_run) -
