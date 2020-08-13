@@ -35,6 +35,7 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
   Manage NetworkManager connections
 - [rofimoji](https://github.com/fdw/rofimoji) -
   Emoji picker
+- [rofi-code](https://github.com/Coffelius/awesome-rofi.git) - Use rofi to quickly open VSCode or Codium workspaces
 - [rofi-files](https://github.com/cjbassi/rofi-files) -
   Quickly open files and folders
 - [rofi-pass](https://github.com/carnager/rofi-pass) -
