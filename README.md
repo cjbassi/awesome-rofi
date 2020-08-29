@@ -26,6 +26,7 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 - [i3-switch-workspaces](https://github.com/carnager/rofi-scripts/blob/master/i3_switch_workspace.sh) - Switch workspaces by name
 - [QuicKeepass](https://github.com/nongiach/QuicKeepass) - Efficiently autotype your password from keepass on i3 using rofi 
 - [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Manage NetworkManager connections
+- [rofi-code](https://github.com/Coffelius/rofi-code) - Use rofi to quickly open VSCode or Codium workspaces
 - [rofi-files](https://github.com/cjbassi/rofi-files) - Quickly open files and folders
 - [rofi-pass](https://github.com/carnager/rofi-pass) - Frontend for [Pass](https://www.passwordstore.org/)
 - [rofi-power](https://github.com/cjbassi/rofi-power) - Perform systemd based power management
