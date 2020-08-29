@@ -26,10 +26,10 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 ## Other
 
 - [Applets & menus](https://github.com/adi1090x/rofi) - Comprehensive collection of themeable applets, menus, launchers and sidemenus built with rofi
-- [clerk](https://github.com/carnager/clerk) -
-  MPD client
 - [buku_run](https://github.com/carnager/buku_run) -
   rofi frontend for buku bookmarks manager
+- [clerk](https://github.com/carnager/clerk) -
+  MPD client
 - [QuicKeepass](https://github.com/nongiach/QuicKeepass) - Efficiently autotype your password from keepass on i3 using rofi 
 - [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) -
   Manage NetworkManager connections
@@ -44,7 +44,7 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 - [rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Mode for systemd-based power management
 - [rofi-script-to-dmenu](https://github.com/jluttine/rofi-script-to-dmenu) - Run rofi scripts with dmenu (or in rofi dmenu mode)
 - [rofi-themes](https://github.com/DaveDavenport/rofi-themes)
-- [udiskie-dmenu](https://github.com/fogine/udiskie-dmenu) -
-  [udiskie](https://github.com/coldfix/udiskie) frontend for managing removable media
 - [teiler](https://github.com/carnager/teiler) -
   Screenshot and screencast tool
+- [udiskie-dmenu](https://github.com/fogine/udiskie-dmenu) -
+  [udiskie](https://github.com/coldfix/udiskie) frontend for managing removable media
