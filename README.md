@@ -16,13 +16,6 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 - [rofi-copyq](https://github.com/cjbassi/rofi-copyq) -
   Search [copyq](https://github.com/hluk/CopyQ) clipboard history
 
-## i3
-
-- [i3-switch-workspaces](https://github.com/carnager/rofi-scripts/blob/master/i3_switch_workspace.sh) -
-  Switch workspaces by name
-- [i3-workspace-groups](https://github.com/cjbassi/i3-workspace-groups) -
-  Organize workspaces into groups
-
 ## Other
 
 - [Applets & menus](https://github.com/adi1090x/rofi) - Comprehensive collection of themeable applets, menus, launchers and sidemenus built with rofi
@@ -30,6 +23,8 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
   rofi frontend for buku bookmarks manager
 - [clerk](https://github.com/carnager/clerk) -
   MPD client
+- [i3-switch-workspaces](https://github.com/carnager/rofi-scripts/blob/master/i3_switch_workspace.sh) -
+  Switch workspaces by name
 - [QuicKeepass](https://github.com/nongiach/QuicKeepass) - Efficiently autotype your password from keepass on i3 using rofi 
 - [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) -
   Manage NetworkManager connections
