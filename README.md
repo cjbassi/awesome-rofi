@@ -18,17 +18,22 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 - [rofimoji](https://github.com/fdw/rofimoji)
 - [rofi-emoji](https://github.com/Mange/rofi-emoji)
 
+## Password Management
+
+- [QuicKeepass](https://github.com/nongiach/QuicKeepass) - Efficiently autotype your password from keepass on i3 using rofi
+- [rofi-pass](https://github.com/carnager/rofi-pass) - Frontend for [Pass](https://www.passwordstore.org/)
+- [rofi-1pass](https://github.com/apetresc/rofi-1pass) - Copy passwords from your 1Password vaults
+- [rofi-lpass](https://github.com/Mange/rofi-lpass) - Copy passwords from your Lastpass vaults
+
 ## Other
 
 - [Applets & menus](https://github.com/adi1090x/rofi) - Comprehensive collection of themeable applets, menus, launchers and sidemenus built with rofi
 - [buku_run](https://github.com/carnager/buku_run) - rofi frontend for buku bookmarks manager
 - [clerk](https://github.com/carnager/clerk) - MPD client
 - [i3-switch-workspaces](https://github.com/carnager/rofi-scripts/blob/master/i3_switch_workspace.sh) - Switch workspaces by name
-- [QuicKeepass](https://github.com/nongiach/QuicKeepass) - Efficiently autotype your password from keepass on i3 using rofi 
 - [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Manage NetworkManager connections
 - [rofi-code](https://github.com/Coffelius/rofi-code) - Use rofi to quickly open VSCode or Codium workspaces
 - [rofi-files](https://github.com/cjbassi/rofi-files) - Quickly open files and folders
-- [rofi-pass](https://github.com/carnager/rofi-pass) - Frontend for [Pass](https://www.passwordstore.org/)
 - [rofi-power](https://github.com/cjbassi/rofi-power) - Perform systemd based power management
 - [rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Mode for systemd-based power management
 - [rofi-script-to-dmenu](https://github.com/jluttine/rofi-script-to-dmenu) - Run rofi scripts with dmenu (or in rofi dmenu mode)
