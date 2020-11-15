@@ -25,6 +25,9 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 - [rofi-1pass](https://github.com/apetresc/rofi-1pass) - Copy passwords from your [1Password](https://1password.com/) vaults
 - [rofi-lpass](https://github.com/Mange/rofi-lpass) - Copy passwords from your [LastPass](https://www.lastpass.com/) vaults
 
+## Bluetooth Management
+- [rofi-bluetooth](https://github.com/ClydeDroid/rofi-bluetooth) - A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display status info.
+
 ## Other
 
 - [Applets & menus](https://github.com/adi1090x/rofi) - Comprehensive collection of themeable applets, menus, launchers and sidemenus built with rofi
