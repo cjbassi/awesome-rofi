@@ -38,6 +38,7 @@ A curated list of awesome [rofi](https://github.com/DaveDavenport/rofi) (and dme
 - [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Manage NetworkManager connections
 - [rofi-code](https://github.com/Coffelius/rofi-code) - Use rofi to quickly open VSCode or Codium workspaces
 - [rofi-files](https://github.com/cjbassi/rofi-files) - Quickly open files and folders
+- [rofi-notion](https://github.com/mathix420/rofi-notion) - Quickly create new pages for your Notion databases
 - [rofi-power](https://github.com/cjbassi/rofi-power) - Perform systemd based power management
 - [rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Mode for systemd-based power management
 - [rofi-script-to-dmenu](https://github.com/jluttine/rofi-script-to-dmenu) - Run rofi scripts with dmenu (or in rofi dmenu mode)
